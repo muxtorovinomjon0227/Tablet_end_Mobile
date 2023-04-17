@@ -13,8 +13,3 @@
 We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web. In this flutter responsive video, we will show you the real power of flutter. Make mobile, web, and desktop app from a single codebase.
 
 ### Outlook Email App Redesign Responsive Final UI
-
-![Preview](/gif.gif)
-
-![App UI](/ui.png)
-# Tablet_end_Mobile-
